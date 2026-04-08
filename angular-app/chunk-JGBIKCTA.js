@@ -1,0 +1,1 @@
+import{Bb as a,Sa as m,jb as n,kb as c}from"./chunk-Y3TLMSJZ.js";var e=class t{static \u0275fac=function(o){return new(o||t)};static \u0275cmp=m({type:t,selectors:[["app-welcome"]],decls:2,vars:0,template:function(o,s){o&1&&(n(0,"p"),a(1,"welcome works!"),c())},encapsulation:2})};var u=[{path:"",component:e}];export{u as WELCOME_ROUTES};

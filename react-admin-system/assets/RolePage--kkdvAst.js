@@ -1,0 +1,1 @@
+import{R as e,t}from"./Card-BfR1i05S.js";var n=e(),r=()=>(0,n.jsx)(t,{title:`角色管理`,bordered:!1,children:(0,n.jsx)(`div`,{children:`角色管理页面 - 动态路由控制`})});export{r as RolePage,r as default};
